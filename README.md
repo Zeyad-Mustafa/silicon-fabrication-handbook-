@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 # Silicon Fabrication Handbook 🔬
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -68,7 +71,7 @@ jupyter notebook mems_spring_mass.ipynb
 - **CAD Models**: STEP files (FreeCAD, SolidWorks compatible)
 - **Version Control**: Git LFS for large binary files
 
-## 📊 Process Flow Examples
+##  Process Flow Examples
 
 ```
 Standard CMOS Flow:
@@ -83,7 +86,7 @@ MEMS Pressure Sensor (Bulk):
 SOI Wafer → Backside DRIE → Cavity Etch → Diaphragm → 
 Piezoresistors → Anodic Bond → Wire Bond
 ```
-## 📈 Example Diagrams
+##  Example Diagrams
 
 ![Frequency Response](diagrams/frequency_response.png)
 *Figure: Typical frequency response of a silicon sensor*
@@ -95,19 +98,19 @@ Piezoresistors → Anodic Bond → Wire Bond
 *Figure: Shock response for MEMS device packaging*
 
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md).
 
 ### Ways to Contribute
 
-- 📝 Add new process documentation
-- 🐛 Report errors or suggest improvements
-- 💻 Submit simulation code examples
-- 🎨 Create diagrams or animations
-- 📚 Share research papers or case studies
+-  Add new process documentation
+-  Report errors or suggest improvements
+-  Submit simulation code examples
+-  Create diagrams or animations
+-  Share research papers or case studies
 
-## 📖 Citation
+##  Citation
 
 If you use this handbook in your research or teaching, please cite:
 
@@ -121,7 +124,7 @@ If you use this handbook in your research or teaching, please cite:
 }
 ```
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -131,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Diagrams: CC BY 4.0
 - Research papers: Referenced with original publisher rights
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 - **Foundries**: TSMC, Intel, Samsung for public process documentation
 - **Universities**: MIT, Stanford, Berkeley for MEMS research contributions
@@ -143,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ...
 
-## 📞 Contact & Support
+##  Contact & Support
 
 - **Repository**: [https://github.com/Zeyad-Mustafa/silicon-fabrication-handbook-](https://github.com/Zeyad-Mustafa/silicon-fabrication-handbook-)
 
@@ -152,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: zeyad.uni@gmail.com
 
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Add advanced FinFET documentation
 - [ ] Include GaN and SiC processes
@@ -165,3 +168,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repository if you find it useful!**
 
 *Last Updated: November 2025*
+>>>>>>> 0d0dcac (Initial commit)
