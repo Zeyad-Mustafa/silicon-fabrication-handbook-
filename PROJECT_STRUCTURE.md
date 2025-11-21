@@ -22,13 +22,13 @@ silicon-fabrication-handbook/
 ├── docs/                             # Main documentation
 │   │
 │   ├── 01-introduction/
-│   │   ├── overview.md               #  CREATED - Wafer basics, cleanroom, fab overview
+│   │   ├── overview.md               #  done 18/11/2025 - Wafer basics, cleanroom, fab overview
 │   │   ├── cleanroom-protocols.md               #  NEW -  created 21/11/2025
 │   │   ├── wafer-fundamentals.md               #  NEW -  created. 21/11/2025
 │   │   └── safety-guidelines.md               #  NEW -  created. 21/11/2025
 │   │
 │   ├── 02-cmos-feol/
-│   │   ├── transistor-fabrication.md #  CREATED - Complete FEOL process flow
+│   │   ├── transistor-fabrication.md #  Done 18/11/2015 - Complete FEOL process flow
 │   │   ├── oxidation.md               
 │   │   ├── lithography.md
 │   │   ├── ion-implantation.md
