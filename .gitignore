@@ -44,4 +44,7 @@ diagrams/*.bak
 
 # Ignore local environment variables
 .env
-
+echo "*.pub" >> .gitignore
+echo "github_pat_*" >> .gitignore
+echo "*.pem" >> .gitignore
+echo "*.key" >> .gitignore
